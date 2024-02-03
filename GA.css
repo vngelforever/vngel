@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+}
+
+.menubar{
+    text-align:center;
+    padding: 1em 4em;
+    font-family: 'Engravers MT',
+        'Times New Roman',
+        sans-serif ;
+    color: lightgrey;
+}
+
+.menubar-underline{
+    border: 2px solid lightgray;
+}
+
+@keyframes ani01 {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.shape-01 {
+    border-radius: 90em;;
+    position: absolute;
+    height: 70px;
+    width: 70px;
+    border: 2px solid lightgrey;
+    color: white;
+    font-family: 'Engravers MT', 'Times New Roman', sans-serif;
+    text-align: center;
+    background-image: url('../src/img/VNGEL.png');
+    background-position: center;
+    background-size: cover;
+    right: 47%;
+    top: 50%;
+    animation: ani01 5s linear infinite;
+}
+
+.shape-div{
+    text-align: center;
+    justify-content: center;
+}
