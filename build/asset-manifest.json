@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.20121ace.css",
+    "main.js": "/static/js/main.1da96e00.js",
+    "static/media/Nocturnal_logo.png": "/static/media/Nocturnal_logo.5d08dad637e6db08af49.png",
+    "static/media/Goth_Vngel_Logo.png": "/static/media/Goth_Vngel_Logo.6e8e1bbe0cee3fc7c5b7.png",
+    "static/media/VNGEL-HEADER-BACKGROUND .jpg": "/static/media/VNGEL-HEADER-BACKGROUND .f82a47d28f67d423db43.jpg",
+    "static/media/Vngelhill_logo.png": "/static/media/Vngelhill_logo.163d54b9ee5657f31c50.png",
+    "static/media/VNGEL.png": "/static/media/VNGEL.a0ca7b4219aeb3a90186.png",
+    "index.html": "/index.html",
+    "main.20121ace.css.map": "/static/css/main.20121ace.css.map",
+    "main.1da96e00.js.map": "/static/js/main.1da96e00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20121ace.css",
+    "static/js/main.1da96e00.js"
+  ]
+}
